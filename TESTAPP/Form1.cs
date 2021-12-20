@@ -7,6 +7,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Sodao.FastSocket.Server;
+using Sodao.FastSocket.Server.Messaging;
+using Sodao.FastSocket.SocketBase;
+
 
 namespace TESTAPP
 {

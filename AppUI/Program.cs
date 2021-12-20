@@ -14,6 +14,7 @@ namespace AppUI
         [STAThread]
         static void Main()
         {
+            int a = 09;
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
